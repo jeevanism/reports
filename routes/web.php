@@ -1,8 +1,6 @@
 <?php
 
-//namespace App\Http\Controllers;
-//use App\Http\Controllers\ReportBuilder;
- 
+
 use Illuminate\Support\Facades\Route;
  
 
